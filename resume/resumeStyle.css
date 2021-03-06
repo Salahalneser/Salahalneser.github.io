@@ -195,3 +195,8 @@ li{
     font-weight:600
   }
 }
+@media (max-width:900px){
+  navbar-toggler{
+    text-align: center;
+}
+  
